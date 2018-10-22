@@ -1,0 +1,37 @@
+languageCode = "en"
+defaultcontentlanguage = "en"
+title = "Murali's Musings"
+theme = "coder"
+
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "post"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "about"
+
+paginate = 20
+
+[params]
+  author = "Murali Suriar"
+  github = "msuriar"
+  twitter = "msuriar"
+
+# Social links
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/msuriar/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/msuriar/"
+
+[permalinks]
+  post = "/:year/:month/:title"
