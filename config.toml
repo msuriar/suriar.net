@@ -3,6 +3,8 @@ defaultcontentlanguage = "en"
 title = "Murali's Musings"
 theme = "coder"
 
+baseURL = "https://www.suriar.net/"
+
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
