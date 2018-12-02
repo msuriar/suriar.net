@@ -66,3 +66,5 @@ memory being what it is, those posts will probably be somewhat lacking on
 detail. Bah.
 
 85 days and counting...
+
+[started this blog]: https://www.suriar.net/2009/12/why-a-blog/
