@@ -16,7 +16,7 @@ After doing a brief bit of research, I settled on [Hugo] as my static site
 generator of choice. This was mostly because the most common thing ([Jekyll])
 is written in Ruby, which I have ~no experience with. [Pelican] was another
 option, but I didn't see any strong argument in favour of one over the other,
-so Hugo one due to [recommendations] from other people.
+so Hugo won due to [recommendations] from other people.
 
 I then needed to migrate my existing content from Blogger into Hugo markdown.
 This was a little annoying, but not disastrously so. I [downloaded] an XML
@@ -67,10 +67,12 @@ They're a general "host web projects" company. Nice things I've noticed:
 - They [support TLS] with [Let's Encrypt] certificates
 - They support automated deployments based on pushes to [Github]/[Bitbucket].
 
-The one thing that they're missing is IPv6 support, which appears to be a
+~~ The one thing that they're missing is IPv6 support, which appears to be a
 limitation of [DigitalOcean] (which is who Netlify use for hosting their VMs).
 The lack of v6 is annoying, but not enough so to motivate me to move given
-the other convenient features Netlify provide otherwise.
+the other convenient features Netlify provide otherwise. ~~
+
+UPDATE: at some point in the last 18 months Netlify added IPv6 support. Win!
 
 TODO(msuriar): at some point I should publish the repo for this blog, including
 the Hugo config.
