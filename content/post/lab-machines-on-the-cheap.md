@@ -29,16 +29,16 @@ authenticates against the local OS; once I had input my credentials and
 installed the requisite Firefox plug-in, I was presented with an inventory:
 
 {{< figure
-link="http://1.bp.blogspot.com/_U_HD6hw90dM/SyGfNU9cetI/AAAAAAAAIOA/Q9DKaawRrqQ/s1600-h/vmware.png"
-src="http://1.bp.blogspot.com/_U_HD6hw90dM/SyGfNU9cetI/AAAAAAAAIOA/Q9DKaawRrqQ/s320/vmware.png"
+  link="/img/lab-machines-on-the-cheap/vmware-large.png"
+  src="/img/lab-machines-on-the-cheap/vmware-small.png"
 >}}
 
 Half an hour later, I had a functioning [FreeBSD](http://www.freebsd.org/)
 installation on a newly created VM:
 
 {{< figure
-link="http://2.bp.blogspot.com/_U_HD6hw90dM/SyGfTEEO8ZI/AAAAAAAAIOI/sMDgvL2S9ZY/s1600-h/bsd.png"
-src="http://2.bp.blogspot.com/_U_HD6hw90dM/SyGfTEEO8ZI/AAAAAAAAIOI/sMDgvL2S9ZY/s320/bsd.png"
+  link="/img/lab-machines-on-the-cheap/bsd-large.png"
+  src="/img/lab-machines-on-the-cheap/bsd-small.png"
 >}}
 
 The plan is to start by using pre-configured installations of BSD, Solaris and

@@ -24,6 +24,6 @@ ago. (Some of these have been read now - once I source a new camera, I shall
 post an updated photo.)
 
 {{< figure
-link="http://3.bp.blogspot.com/_U_HD6hw90dM/SxxDjgYS0jI/AAAAAAAAIJo/EzXRgsJwxVo/s1600-h/bookshelf-20090103.jpg"
-src="http://3.bp.blogspot.com/_U_HD6hw90dM/SxxDjgYS0jI/AAAAAAAAIJo/EzXRgsJwxVo/s400/bookshelf-20090103.jpg"
+  src="/img/why-a-blog/bookshelf-20090103-small.jpg"
+  link="/img/why-a-blog/bookshelf-20090103-large.jpg"
 >}}
