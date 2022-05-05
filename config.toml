@@ -51,3 +51,9 @@ title = "Murali's Musings"
 
 [permalinks]
   post = "/:year/:month/:title"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
