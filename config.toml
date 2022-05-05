@@ -5,7 +5,7 @@ paginate = 20
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsstyle = "solarized-dark"
-theme = "hugo-coder"
+theme = "coder"
 title = "Murali's Musings"
 
 [[menu.main]]
