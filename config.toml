@@ -18,6 +18,12 @@ title = "Murali's Musings"
     url = "about"
 
 
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
 [params]
   author = "Murali Suriar"
   description = "Murali Suriar's personal website"
@@ -51,9 +57,3 @@ title = "Murali's Musings"
 
 [permalinks]
   post = "/:year/:month/:title"
-
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
