@@ -67,10 +67,10 @@ They're a general "host web projects" company. Nice things I've noticed:
 - They [support TLS] with [Let's Encrypt] certificates
 - They support automated deployments based on pushes to [Github]/[Bitbucket].
 
-~~ The one thing that they're missing is IPv6 support, which appears to be a
+~~The one thing that they're missing is IPv6 support, which appears to be a
 limitation of [DigitalOcean] (which is who Netlify use for hosting their VMs).
 The lack of v6 is annoying, but not enough so to motivate me to move given
-the other convenient features Netlify provide otherwise. ~~
+the other convenient features Netlify provide otherwise.~~
 
 UPDATE: at some point in the last 18 months Netlify added IPv6 support. Win!
 
