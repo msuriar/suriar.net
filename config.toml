@@ -12,7 +12,7 @@ enableEmoji = true
 [[menu.main]]
     name = "Blog"
     weight = 1
-    url  = "post"
+    url  = "posts"
 [[menu.main]]
     name = "About"
     weight = 2
