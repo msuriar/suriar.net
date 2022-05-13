@@ -9,7 +9,7 @@ endnotes[^endnotes] for more details.)_
 
 This is some commentary/exposition in response to [CodingBlocks] episode [184],
 which is a podcast review of the [Eliminating Toil] chapter of the [Site
-Reliability Engineering] book.
+Reliability Engineering]\(SRE\) book.
 
 [CodingBlocks]: https://www.codingblocks.net/
 [184]: https://www.codingblocks.net/episode184
