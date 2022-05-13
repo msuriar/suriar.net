@@ -8,6 +8,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsstyle = "solarized-dark"
 enableEmoji = true
+googleAnalytics = "G-1J81SPJ5H4"
 
 [[menu.main]]
     name = "Blog"
