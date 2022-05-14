@@ -77,7 +77,7 @@ UPDATE: at some point in the last 18 months Netlify added IPv6 support. Win!
 TODO(msuriar): at some point I should publish the repo for this blog, including
 the Hugo config.
 
-[Previously]: https://www.suriar.net/2018/10/back-again/
+[Previously]: {{< relref "back-again" >}}
 [Blogger]: https://www.blogger.com/
 [downloaded]: https://support.google.com/blogger/answer/41387
 [blogimport]: https://github.com/natefinch/blogimport
