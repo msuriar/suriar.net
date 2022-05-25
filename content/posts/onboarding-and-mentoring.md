@@ -14,9 +14,11 @@ Another week, another blog courtesy of the [CodingBlocks] [Slack].
 > look out for or upsides I might not be thinking of?
 
 Unsurprisingly I have some opinions. Here they are, distilled a bit, and
-combined with some good advice from Niklas Asp.
+combined with some good advice from Niklas Asp. Thanks to [John Looney] for
+feedback on my first draft.
 
 [Steven Leadbeater]: https://www.linkedin.com/in/steve-leadbeater/
+[John Looney]: https://twitter.com/john_p_looney
 
 # On productivity
 
