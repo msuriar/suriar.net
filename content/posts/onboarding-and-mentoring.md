@@ -16,6 +16,8 @@ Another week, another blog courtesy of the [CodingBlocks] [Slack].
 Unsurprisingly I have some opinions. Here they are, distilled a bit, and
 combined with some good advice from Niklas Asp.
 
+[Steven Leadbeater]: https://www.linkedin.com/in/steve-leadbeater/
+
 # On productivity
 
 > Is it possible to maintain your output by proxy ...
