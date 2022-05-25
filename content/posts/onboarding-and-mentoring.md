@@ -68,7 +68,8 @@ maintain that level of work and study for your entire career.
 
 In contrast, consider what happens when you onboard a junior and mentor them.
 
-Let's make up some simple assumptions:
+Let's make up some numbers, assuming a new junior_with _no prior work
+experience_:
 
 - Onboarding a junior will take 50% of your working time for the first 1 month,
     after which time they'll be 50% as productive as you are normally.
@@ -88,6 +89,32 @@ After another two months, you are at 1.65x your base output.
 
 At the end of a six month onboarding period, you're at 1.9x your base output,
 and no-one has had to work themselves into the ground.
+
+These numbers are obviously a vast oversimplification, and they will be even
+less representative for juniors with existing work experience. Juniors with
+more experience will likely be more productive more quickly - and will likely
+require less mentoring time invested.
+
+We should also mention that sometimes mentoring may not be sufficient. It's
+possible that new joiners are unable to make progress through your normal
+onboarding/mentoring process. It's important as a mentor to recognise when this
+is happening, take a step back and adjust the overall approach in concert with
+your mentee and their manager. This gets more into people and performance
+management - these details are probably for another post, written by someone
+with more experience in these topics.
+
+## Retention
+
+One beneficial side effect of good mentoring is retention. Ongoing growth and
+development, and new opportunities of ever increasing scope make teams with a
+strong mentoring culture attractive for those looking to progress in their
+careers. Through better retention, institutional knowledge is spread around and
+remains with the team for longer.
+
+This has implications for mentors: as junior mentees increase in skill and
+independence, the role of mentors and managers is to continue to keep them
+supplied with interesting and challenging work commensurate with their
+capabilities.
 
 ## Sustainability
 
