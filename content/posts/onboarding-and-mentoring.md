@@ -70,7 +70,7 @@ maintain that level of work and study for your entire career.
 
 In contrast, consider what happens when you onboard a junior and mentor them.
 
-Let's make up some numbers, assuming a new junior_with _no prior work
+Let's make up some numbers, assuming a new junior with _no prior work
 experience_:
 
 - Onboarding a junior will take 50% of your working time for the first 1 month,
