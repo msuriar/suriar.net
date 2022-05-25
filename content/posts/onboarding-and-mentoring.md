@@ -77,7 +77,7 @@ Let's make up some simple assumptions:
 - For the next 3 months, you'll spend 10% of your time mentoring, after which
     your junior will be 90% as effective as you are normally.
 
-TODO(msuriar): make a graph.
+> TODO(msuriar): make a graph.
 
 You take a 50% hit in productivity in your first month, after which you have
 gained 75% back (50% from your junior, 25% from reduced mentoring time), so
