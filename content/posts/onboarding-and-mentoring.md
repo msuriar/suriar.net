@@ -97,5 +97,20 @@ onboarding time: in the medium term, onboarding and mentoring junior engineers
 is the **single most impactful thing** you can do to improve the output of your
 team.
 
+# Onboarding advice
+
+Some advice - a combination of what I've seen work before along with points
+raised by Steven and Niklas in our discussion.
+
+## Have a plan for onboarding
+
+## Set expectations
+
+## Lead by example
+
+## Make time to check in on people
+
+## On onboarding remotely
+
 [CodingBlocks]: https://www.codingblocks.net/
 [Slack]: https://www.codingblocks.net/slack
