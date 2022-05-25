@@ -150,10 +150,15 @@ team member banging their head in frustration and unable to progress. It's bad
 for their morale, and its a waste of time.
 
 I tend to set a strict time limit - 15 minutes, or 30 minutes - after which my
-mentees should actively bother me if they're blocked. Note that such instances
-shouldn't just be "oh, here's how you do that, back to work you go" - instead,
-they should be teaching and learning opportunities for both sides. Some example
-questions and conversation points:
+mentees should actively bother me if they're blocked. If you're in a physical
+office, it's easier to load balance this among the people sat around. When one
+or more people are remote, it's useful to have a named person to handle such
+questions, and to make it explicit that handling those questions is an
+important part of their job which they'll make time for.
+
+Note that such instances shouldn't just be "oh, here's how you do that, back to
+work you go" - instead, they should be teaching and learning opportunities for
+both sides. Some example questions and conversation points:
 
 - Where would you think to go and look for more information?
   - What can we do to improve the discoverability of this information?
@@ -193,11 +198,81 @@ it, I'll post a review.
 [The Leader's Guide to Storytelling]: https://www.amazon.co.uk/Leaders-Guide-Storytelling-Mastering-Discipline/dp/078797675X
 
 
-## Make time to check in on people
+## Actively check in on people
+
+In addition to making it clear that mentees should reach out when they're
+blocked, try and get a sense for how they're doing. If you're in the same
+office space, watch out for them looking frustrated or confused. Doing this
+remotely is harder - see the next section.
+
+It's important that your mentees have protected time to talk about their
+experience more broadly. How are things going? What's your overall impression
+of the product/team/company? Is there anything you need help with outside of
+your immediate work?
+
+What form this takes can vary. If you're working in an office together, then it
+may be as simple as a chat over the mid morning coffee/tea break.
+Alternatively, some people like to schedule a standing 30 minute meeting once a
+week. Find what works for you and your mentee.
 
 ## Remote onboarding
 
+Remote onboarding brings its own significant challenges. Certain aspects of
+onboarding and mentoring become much more important when you're not meeting
+with your mentees in real life every day.
+
+Good documentation, onboarding processes, and small tasks ready to go are of
+paramount importance in a remote environment. The last thing a new hire wants
+to feel is unproductive, idle or forgotten about. Make sure they have all the
+IT access they need, a clear list of things to spend time on, and a backlog of
+reading for when they're waiting on something.
+
+Also: be prepared to invest significant time in your mentees when onboarding
+remotely. Lacking the ability to physically see when they're getting frustrated
+or confused, you must make time to actively ask questions.
+
+To provide one example of what this might take: when I onboarded a new hire in
+my last team, I scheduled a 30 minute 1:1 for us every morning for the first
+month.  Those sessions were used for Q&A, pair programming, discussion,
+lectures - whatever we needed to spend time on. After the first month, those
+meetings were dropped to 1 hour twice a week. We maintained a shared document
+of notes for topics we wanted to cover in future sessions. As they became more
+confident working indepently, the frequency of those sessions reduced until we
+fell into a regular weekly cadences for 1:1s.
+
 ## Building a self sustaining culture
+
+Another thing to bear in mind: if you're in a team or company that has constant
+growth (even if it's only a new person every couple of months or so), you have
+the opportunity to build a self sustaining culture which can improve your
+team's shared understanding as well as provide your mentees with a support
+structure beyond yourself.
+
+In many of my teams, one of the first things a new joiner does in week one is
+get a introductory/101 talk on the team and the systems their responsible for.
+If this is in an office, it's typically done in an informal setting around a
+whiteboard, rather than from pre-canned slides. The goal is to provide a simple
+mental model of the service[^models] which everyone on the team can reproduce
+from memory, with a one sentence description of what each box does.  Often, the
+first instance of the talk for a new joiner is given by the last person to join
+the team.
+
+The diagram used in that one hour overview is repeated a lot in future, more
+detailed training, with focuses on different subsystems and components.
+
+When it comes to questions which people are blocked on, try and encourage
+public discussion. That might be via voice in an office (be careful to respect
+your co-workers' feelings on noise), or it might be in a team channel in Slack
+or IRC. Putting those questions in a public forum makes them visible to other
+people - sometimes one new joiner may be able to help another, which will
+increase both of their confidence. This also relates back to setting an
+example: as an experienced member of your team, make sure to ask questions
+publicly when you run into something you don't understand. Demonstrate that a
+lack of knowledge is nothing to be ashamed of.
+
+[^models]: Diagrams as shared mental models are an extremely underused tool. I
+  have opinions which I will hopefully express in another blog post and/or
+  future conference talks.
 
 # Conclusion
 
