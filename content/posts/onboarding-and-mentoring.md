@@ -110,7 +110,25 @@ raised by Steven and Niklas in our discussion.
 
 ## Make time to check in on people
 
-## On onboarding remotely
+## Remote onboarding
+
+# Conclusion
+
+There is a some finite limit that you can achieve working as an individual. If
+you're happy with tasks which fit within that limit, then that's fine - this
+advice isn't for you.
+
+If you want to be able to achieve and deliver more, the only way you'll be able
+to do so is to **enable other people to help you**.
+
+Mentoring is a long term strategy: make the time investment now, and you'll
+reap the rewards later.
+
+Productivity aside: mentoring can also be extremely rewarding. Seeing people I
+mentored succeed and surpass me never fails to put a smile on my face.
+
+If I'm remembered for nothing else than "Murali helped me get a good start",
+that wouldn't be a bad outcome at all.
 
 [CodingBlocks]: https://www.codingblocks.net/
 [Slack]: https://www.codingblocks.net/slack
