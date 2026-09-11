@@ -1,7 +1,7 @@
 ---
 title: "Config Distribution Notes"
 date: 2026-09-09T11:53:11+01:00
-draft: true
+draft: false
 tags: [ "config distribution", "distributed systems", "sre" ]
 ---
 
